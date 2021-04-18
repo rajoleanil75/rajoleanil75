@@ -18,7 +18,7 @@
     </a>
 </p>
     
-[![nitaking's github stats](https://github-readme-stats.vercel.app/api?username=rajoleanil75&count_private=true&show_icons=true&theme=onedark)]
+![Anil Rajole's github stats](https://github-readme-stats.vercel.app/api?username=rajoleanil75&count_private=true&show_icons=true&theme=onedark)
 
 
 <!--
