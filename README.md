@@ -13,9 +13,11 @@
     <a href="https://www.reddit.com/user/rajoleanil75">
         <img height="20" src="https://img.shields.io/reddit/user-karma/combined/rajoleanil75?label=Reddit&logo=reddit&style=flat" />
     </a>
+    <!--
     <a href="https://stackoverflow.com/users/12702900/rajoleanil75">
         <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/12702900?label=StackOverflow&logo=stack-overflow&style=flat" />
     </a>
+    -->
 </p>
     
 ![Anil Rajole's github stats](https://github-readme-stats.vercel.app/api?username=rajoleanil75&count_private=true&show_icons=true&theme=onedark)
