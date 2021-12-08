@@ -7,12 +7,15 @@
     <a href="http://twitter.com/rajoleanil75">
         <img height="20" src="https://img.shields.io/twitter/follow/rajoleanil75?label=Twitter&logo=twitter&style=flat" />
     </a>
-    <a href="https://github.com/rajoleanil75">
+    <a>
+        <img height="20" src="https://wakatime.com/badge/user/b137518f-a814-46cd-9af6-ae6121c57ff6.svg" />
+    </a>
+<!--     <a href="https://github.com/rajoleanil75">
         <img height="20" src="https://img.shields.io/github/followers/rajoleanil75?label=follow&logo=github&style=flat" />
     </a>
     <a href="https://www.reddit.com/user/rajoleanil75">
         <img height="20" src="https://img.shields.io/reddit/user-karma/combined/rajoleanil75?label=Reddit&logo=reddit&style=flat" />
-    </a>
+    </a> -->
     <!--
     <a href="https://stackoverflow.com/users/12702900/rajoleanil75">
         <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/12702900?label=StackOverflow&logo=stack-overflow&style=flat" />
