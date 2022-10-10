@@ -24,7 +24,7 @@
 </p>
     
 <p align="center">
-  <img align="center" src="https://github.com/rajoleanil75/rajoleanil75/blob/output/github-contribution-grid-snake.gif" />
+  <img align="center" src="https://github.com/rajoleanil75/rajoleanil75/blob/output/github-contribution-grid-snake.svg" />
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=rajoleanil75&theme=onedark&row=1&column=7" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rajoleanil75&count_private=true&show_icons=true&theme=onedark" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rajoleanil75&theme=onedark" />
