@@ -4,9 +4,9 @@
     <a href="https://github.com/rajoleanil75/rajoleanil75">
         <img src="https://komarev.com/ghpvc/?username=rajoleanil75" alt="rajoleanil75" />
     </a>
-    <a href="http://twitter.com/rajoleanil75">
+<!--     <a href="http://twitter.com/rajoleanil75">
         <img height="20" src="https://img.shields.io/twitter/follow/rajoleanil75?label=Twitter&logo=twitter&style=flat" />
-    </a>
+    </a> -->
     <a>
         <img height="20" src="https://wakatime.com/badge/user/b137518f-a814-46cd-9af6-ae6121c57ff6.svg" />
     </a>
