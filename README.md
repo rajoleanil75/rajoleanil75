@@ -26,7 +26,7 @@
 <p align="center">
 <!--   <img align="center" src="https://github.com/rajoleanil75/rajoleanil75/blob/output/github-contribution-grid-snake.svg" /> -->
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=rajoleanil75&theme=onedark&row=1&column=7" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rajoleanil75&count_private=true&show_icons=true&theme=onedark" />
+<!--   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rajoleanil75&count_private=true&show_icons=true&theme=onedark" /> -->
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rajoleanil75&theme=onedark" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajoleanil75&layout=compact&&count_private=true&theme=onedark" />
 <!--   <img align="center" src="https://wakatime.com/share/@rajoleanil75/85466bba-601a-406c-8637-3f8a1b3e5c81.png" /> -->
