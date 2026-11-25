@@ -22,7 +22,7 @@ While AI makes writing isolated code snippets faster than ever, shipping resilie
 ### 🌐 Connect & Follow
 
 - ▶️ **YouTube:** [youtube.com/@anilrajole_tech](https://www.youtube.com/@anilrajole_tech)
-- 𝕏 **X (Twitter):** [@AnilR37635](https://x.com/anilrajole_tech)
+- 𝕏 **X (Twitter):** [@anilrajole_tech](https://x.com/anilrajole_tech)
 - 📸 **Instagram:** [@anilrajole_tech](https://www.instagram.com/anilrajole_tech)
 - 💼 **LinkedIn:** [https://www.linkedin.com/in/anil-rajole-76a7a0380]
 - 📧 **Consulting & Inquiries:** `anilrajoletech@gmail.com`
